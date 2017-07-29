@@ -1,4 +1,4 @@
-package observer;
+package behavioral.observer;
 
 public interface Subject {
 
