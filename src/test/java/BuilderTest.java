@@ -1,6 +1,6 @@
-import creational.builder.Director;
-import creational.builder.Robot;
-import creational.builder.RobotBuilder;
+import creational.builder_buildsitselfWITHthenpassestoprivateconstructor.Director;
+import creational.builder_buildsitselfWITHthenpassestoprivateconstructor.Robot;
+import creational.builder_buildsitselfWITHthenpassestoprivateconstructor.RobotBuilder;
 import org.junit.Test;
 
 public class BuilderTest {

@@ -1,4 +1,4 @@
-import creational.factorymethod.FactoryImpl;
+import creational.factorymethod_interfacewithafactorymethod.FactoryImpl;
 import org.junit.Test;
 
 public class FactoryMethodTest {

@@ -1,5 +1,5 @@
-import creational.abstractfactory.Client;
-import creational.abstractfactory.WarMachine;
+import creational.abstractfactory_returnsafactorywhichcreatesagraphofrelatedobjects.Client;
+import creational.abstractfactory_returnsafactorywhichcreatesagraphofrelatedobjects.WarMachine;
 import org.junit.Test;
 
 public class AbstractFactoryTest {

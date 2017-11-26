@@ -1,4 +1,4 @@
-import creational.factory.Shipyard;
+import creational.factory_interfaceasreturntypeplusswitch.Shipyard;
 import org.junit.Test;
 
 public class Factory {
