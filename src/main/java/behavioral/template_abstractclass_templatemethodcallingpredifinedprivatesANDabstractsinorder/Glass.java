@@ -1,4 +1,4 @@
-package behavioral.template;
+package behavioral.template_abstractclass_withprivatemethodsANDtemplatemethodcallingabstractsinorder;
 
 public class Glass extends HouseTemplate {
 
